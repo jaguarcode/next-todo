@@ -2,12 +2,12 @@
 
 ### 구성
 
-#### Next.js
-#### TypeScript
-#### 'CSS-in-JS' Styled-component
-#### Font
+#### 1. Next.js
+#### 2. TypeScript
+#### 3. 'CSS-in-JS' Styled-component
+#### 4. Font
 - 'Google' NotoSans & NotoSansKr
-#### Icons
+#### 5. Icons
 - from iconmonstr
 - modified by Figma
 
